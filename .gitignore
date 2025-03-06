@@ -1,0 +1,29 @@
+# plot #
+########
+dat/
+plt/
+
+# benchmark #
+#############
+*.nodes
+*.nets
+
+# object #
+##########
+obj/
+
+# executable #
+##############
+FM
+FM_checker
+
+# temp #
+########
+*.o
+*.out
+*.exe
+
+# system #
+##########
+.DS_Store  # macOS metadata file
+Thumbs.db  # Windows thumbnail cache file
