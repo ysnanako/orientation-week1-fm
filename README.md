@@ -78,17 +78,17 @@ n1 n2 n3 n5;
 
 ## 🧰 Project Structure
 
-📂 orientation-week1-fm/
-│── 📂 src/ # (fm.cpp, fm.h, parser.cpp, parser.h, and main.cpp)
-│── 📂 obj/ # (ignored)
-│── 📄 benchmark.nodes # (ignored)
-│── 📄 benchmark.nets # (ignored)
-│── 📄 benchmark.out # (ignored)
-│── 🖥️ FM # (ignored)
-│── 🖥️ FM_checker # (ignored)
-│── 🔧 Makefile
-│── 📜 README.md # This file
-│── 📜 .gitignore
+📂 orientation-week1-fm/  
+│── 📂 src/ # (fm.cpp, fm.h, parser.cpp, parser.h, and main.cpp)  
+│── 📂 obj/ # (ignored)  
+│── 📄 benchmark.nodes # (ignored)  
+│── 📄 benchmark.nets # (ignored)  
+│── 📄 benchmark.out # (ignored)  
+│── 🖥️ FM # (ignored)  
+│── 🖥️ FM_checker # (ignored)  
+│── 🔧 Makefile  
+│── 📜 README.md # This file  
+│── 📜 .gitignore  
 
 ## 🔹 **FM Algorithm Flow**
 
