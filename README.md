@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/orientation-week1-fm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/orientation-week1-fm)
 
-This project is part of the **National Cheng Kung University (NCKU) - VLSI/CAD Group**  **"Smart Electronic Design Automation Laboratory (SEDA)" ** orientation, focusing on **2-way Partitioning using the Fiduccia-Mattheyses (FM) Algorithm**.
+This project is part of the **National Cheng Kung University (NCKU) - VLSI/CAD Group**  **"Smart Electronic Design Automation Laboratory (SEDA)"** orientation, focusing on **2-way Partitioning using the Fiduccia-Mattheyses (FM) Algorithm**.
 
 ## 📖 Table of Contents
 
