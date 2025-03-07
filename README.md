@@ -147,4 +147,5 @@ The correctness of the FM partitioning can be verified using the `FM_checker`.
 
 - 📧 Email: [m16131056@gs.ncku.edu.tw](mailto:m16131056@gs.ncku.edu.tw)
 - 🌎 University: [National Cheng Kung University (NCKU)](https://www.ncku.edu.tw)
-- 📖 Course: Physical Design for Nanometer IC, Fall 2024
+- 📖 Course: Summer Training Program - CUDA Parallel Computing
+
