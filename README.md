@@ -78,6 +78,7 @@ n1 n2 n3 n5;
 
 ## 🧰 Project Structure
 
+```
 📂 orientation-week1-fm/  
 │── 📂 src/ # (fm.cpp, fm.h, parser.cpp, parser.h, and main.cpp)  
 │── 📂 obj/ # (ignored)  
@@ -87,8 +88,9 @@ n1 n2 n3 n5;
 │── 🖥️ FM # (ignored)  
 │── 🖥️ FM_checker # (ignored)  
 │── 🔧 Makefile  
-│── 📜 README.md  
+│── 📜 README.md # This file  
 │── 📜 .gitignore  
+```
 
 ## 🔹 **FM Algorithm Flow**
 
