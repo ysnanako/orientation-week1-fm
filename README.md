@@ -1,4 +1,4 @@
-# orientation-week1-fm
+# summer-training-week1-fm
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ysnanako/orientation-week1-fm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ysnanako/orientation-week1-fm)
